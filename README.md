@@ -43,5 +43,8 @@
 ## Hello Flask
 ### Objective of the assignment: we set up flask to create a framework that allows your Pi to become a web server, meaning it can serve up web pages.
 ### What I learned: I learned that making a pi to a web server is actually pretty easy, and super cool to see hello world pop up on another computer.
+## GPIO Flask
+###  Objective of the assignment: to make a button on a different device to turn on a led remotely. We were controlling an electromechanical device over the internet.
+### What I learned: it helped me more understand the idea of turning things on and off on another device. it was really cool to see my pi connect to a device it wasn't plugged into.
 
 
